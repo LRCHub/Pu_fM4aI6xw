@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "白色蜉蝣",
+  "base_artist": "Aimer",
+  "createdAt": "2026-04-03T14:57:28.849369Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "白色蜉蝣",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/01_白色蜉蝣_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "白色蜉蝣 (TV Size)",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/02_白色蜉蝣_(TV_Size)_Aimer.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "白色蜉蝣",
+      "artist": "Aimer",
+      "has_synced": false,
+      "path": "select/pl_01_白色蜉蝣_Aimer.txt"
+    }
+  ]
+}
